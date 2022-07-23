@@ -3,7 +3,11 @@
   "displayName": "Ignore Whitespace",
   "description": "",
   "version": "0.0.1",
-  "icon": "./icon.png",
+  "icon": "assets/icon.png",
+  "publisher": "dutzi",
+  "repository": {
+    "url": "https://github.com/dutzi/vscode-ignore-whitespace"
+  },
   "engines": {
     "vscode": "^1.69.0"
   },

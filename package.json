@@ -1,8 +1,9 @@
 {
   "name": "ignore-whitespace",
-  "displayName": "ignore-whitespace",
+  "displayName": "Ignore Whitespace",
   "description": "",
   "version": "0.0.1",
+  "icon": "./icon.png",
   "engines": {
     "vscode": "^1.69.0"
   },
@@ -26,6 +27,7 @@
       }
     ]
   },
+  "galleryBanner.color": "#2b404c",
   "scripts": {
     "vscode:prepublish": "yarn run compile",
     "compile": "tsc -p ./",
